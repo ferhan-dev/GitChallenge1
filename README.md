@@ -8,6 +8,7 @@ At Outlier, you will be expected to be able to contribute features and fixes wit
 
 ## The Challenge
 
+<<<<<<< HEAD
 There are two pull requests open on this repo. Each change is in its own branch. The challenge is to use `git rebase` to add both changes to `master`. When you are finished, your `master` branch should have three commits in the following order:
 
 ```
@@ -17,6 +18,9 @@ There are two pull requests open on this repo. Each change is in its own branch.
 ```
 
 _ Any errors, missing features, missing tests, or failing tests will disqualify the solution. _
+=======
+There are two pull requests open on this repo. Each change is in its own branch. The challenge is to use `git rebase` to add both changes to `master`. Any errors, missing features, missing tests, or failing tests will disqualify the solution.
+>>>>>>> 607f7a2 (init)
 
 ## Instructions
 
